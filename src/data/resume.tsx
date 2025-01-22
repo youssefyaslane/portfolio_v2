@@ -10,7 +10,7 @@ export const DATA = {
   description: "I am a Data scientist",
   summary:
     "A 5th-year Computer Engineering student specializing in Big Data and Data Science, passionate about solving complex challenges and driving technological innovation. Currently seeking a final-year internship to apply my skills in data science, machine learning, and data engineering.",
-  avatarUrl: "/me.jpeg",
+  avatarUrl: "/me.png",
   skills: [
     "Machine Learning",
     "Deep Learning",
