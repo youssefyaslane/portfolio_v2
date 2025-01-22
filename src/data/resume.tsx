@@ -184,23 +184,23 @@ export const DATA = {
     // },
   ],
   projects: [
-    {
+   {
       title:
-        "Pipeline de Données IoT pour Smart City – Prédiction en Temps Réel",
+        "Pipeline de Traitement , Analyse et prédiction d'Incidents en Temps Réel",
       href: "",
       dates: "2025",
       active: true,
       description:
-        "Development of an IoT pipeline to predict traffic in real-time, utilizing Kafka, Spark Streaming, a regression model, and visualization with superset.",
+        "Développement d’un système de prédiction d’incidents de vol en temps réel en utilisant des données de trafic, météo et démographie. Mise en place d’un pipeline Kafka et BigQuery pour l’ingestion et le stockage des données, avec entraînement de modèles de Machine Learning pour classifier les risques par quartier. Visualisation des prédictions en temps réel via Grafana.",
       technologies: [
         "Python",
         "HDFS",
         "hadoop",
-        "PostgreSQL",
+        "Bigquery",
         "Spark",
         "Kafka",
         "Machine Learning",
-        "Superset",
+        "Gerafana",
       ],
       links: [
         {
