@@ -214,7 +214,7 @@ export const DATA = {
     },
     {
       title: "Segmentation 3D ",
-      href: "https://magicui.design",
+      href: "",
       dates: "2024",
       active: true,
       description:
