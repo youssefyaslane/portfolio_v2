@@ -209,7 +209,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/smartc.jpg",
+      image: "/grafana.png",
       video: "",
     },
     {
