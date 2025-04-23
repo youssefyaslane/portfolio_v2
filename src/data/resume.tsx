@@ -9,7 +9,7 @@ export const DATA = {
   locationLink: "",
   description: "I am a Data scientist",
   summary:
-    "A 5th-year Computer Engineering student specializing in Big Data and Data Science, passionate about solving complex challenges and driving technological innovation. Currently seeking a final-year internship to apply my skills in data science, machine learning, and data engineering.",
+    "Junior Data Scientist specialized in Big Data and AI, with hands-on experience in machine learning, NLP, and data engineering. Passionate about solving real-world problems through data-driven approaches and currently seeking a full-time opportunity to contribute to impactful projects.",
   avatarUrl: "/me.jpeg",
   skills: [
     "Machine Learning",
