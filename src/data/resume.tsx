@@ -75,6 +75,18 @@ export const DATA = {
   },
 
   work: [
+     {
+      company: "orangeMaroc",
+      href: "https://orange.ma",
+      badges: [],
+      location: "Casablanca",
+      title: "Data scientist intern",
+      logoUrl: "/orange.png",
+      start: "02/2025",
+      end: "Aujourd’hui",
+      description:
+        "Developed an automated Speech-to-Text system using Whisper v3 to transcribe multilingual customer calls. Designed a context extraction pipeline with LLMs (GPT-4, LLaMA) to summarize calls and identify key insights, integrated into Power BI dashboards. Also built a classification model to predict B2C subscription payment delays based on customer behavior and billing history.",
+    },
     {
       company: "Inwi",
       href: "https://inwi.ma",
