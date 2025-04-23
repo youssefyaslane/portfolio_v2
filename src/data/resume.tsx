@@ -6,11 +6,11 @@ export const DATA = {
   initials: "DS",
   url: "https://dillion.io",
   location: "Casablanca, MR",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "",
   description: "I am a Data scientist",
   summary:
     "A 5th-year Computer Engineering student specializing in Big Data and Data Science, passionate about solving complex challenges and driving technological innovation. Currently seeking a final-year internship to apply my skills in data science, machine learning, and data engineering.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "Machine Learning",
     "Deep Learning",
