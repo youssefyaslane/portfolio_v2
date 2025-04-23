@@ -26,8 +26,13 @@ export const DATA = {
     "SQL",
     "MongoDB",
     "MySql",
-    "Java",
     "Docker",
+    "Pytorch",
+    "LLMs",
+    "RAG",
+    "Power BI",
+
+
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
