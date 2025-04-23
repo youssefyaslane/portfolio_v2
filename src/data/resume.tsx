@@ -76,7 +76,7 @@ export const DATA = {
 
   work: [
      {
-      company: "orangeMaroc",
+      company: "OrangeMaroc",
       href: "https://orange.ma",
       badges: [],
       location: "Casablanca",
